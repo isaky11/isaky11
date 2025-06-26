@@ -25,5 +25,5 @@
 
 </div>
 
-![Snake animation](https://github.com/isaky11/isaky11/blob/main/github-contribution-grid-snake.svg)
+
 
